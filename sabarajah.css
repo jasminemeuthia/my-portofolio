@@ -1,0 +1,47 @@
+body {
+    background-image: url(harry.jpeg);
+    background-size: cover;
+}
+
+.smthg {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+}
+
+.atas {
+    flex-direction: row;
+}
+
+.atas a {
+    
+    color:white;
+    text-align: center;
+    padding: 14px 40px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.atas a:hover {
+    background-color: rgb(127, 41, 41);
+    border-radius: 70px;
+    transition: all 0.3s ease-in-out;
+    color: white;
+}
+
+.percobaan2 {
+    width: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 25px;
+    border:2px solid black;
+    margin: 20px;
+    padding-top: 90px;
+
+} 
+
+.gambar1 {
+    size: 20;
+}
